@@ -1,0 +1,47 @@
+
+*hu.bme.mit.spaceship.TorpedoStore#fire(I)ZÖ
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java ("4"5* 
+4Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java$ $(µ≤
+Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java' '(!
+%2java.util.Random"java.util.Random«
+ƒ
+Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java' '(#
+%3"java.util.Random#<init>()V*
+
+%2java.util.Random 
+«
+Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java' '($
+	generatorjava.util.Random"__id*
+
+%2java.util.RandomËÂ
+Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java( ((%
+%4double"java.util.Random#nextDouble()D*
+
+	generatorjava.util.Random2nextDouble()*
+1*Ç
+5Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java!# !(5Ÿ÷
+Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java!
+ !("(
+%0"java.lang.IllegalArgumentException""java.lang.IllegalArgumentExceptionì
+ê
+Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java! !(6
+%1">java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V**
+(
+%0"java.lang.IllegalArgumentException*
+numberOfTorpedos*
+4*û
+1Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java3 3("ê
+Ö
+{/Users/b4kk/Documents/Integracios_ellenorzesi_technikak/BME-IET-CI-Lab/src/main/java/hu/bme/mit/spaceship/TorpedoStore.java3 3(
+"":
+""B%#
+!hu.bme.mit.spaceship.TorpedoStore
