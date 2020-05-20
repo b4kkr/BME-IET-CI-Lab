@@ -1,0 +1,9 @@
+1.) ha kilövünk egy torpedót, akkor a primary csőből lő-e ki először.
+
+2.) ha 2x lövünk, akkor felváltva lövi-e ki a csövekből a hajó.
+
+3.) hiba esetén nem próbál-e meg még egy torpedót kilőni a hajó a másik csőből. 
+
+4.) ha az első csőből akarunk kilőni torpedót, és az üres, akkor kilövi-e a második csőből a torpedót, úgy, hogy az nem üres
+
+5.) ha mindkét torpedót ki akarjuk (azaz mindkét csőből), akkor ki fog-e lőni 2 torpedót, azaz kettővel kevesebb lesz-e a maradék torpedók száma. 
